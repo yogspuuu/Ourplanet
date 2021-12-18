@@ -1,9 +1,11 @@
 # Ourplanet
 
-## Getting Started
+## This project created using Flutter.
 
-This project created using Flutter.
+<p align="center">
+  This is a preview of the apps :
+</p>
 
-This is a preview of the apps : 
-
-[![1waCq.md.gif](https://s2.imgcdn.dev/1waCq.md.gif)](https://imgcdn.dev/i/1waCq)
+<p align="center">
+  <img src="preview/gggemink.gif" height="800"/>
+</p>
